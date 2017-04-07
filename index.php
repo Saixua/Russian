@@ -63,7 +63,7 @@ $db = new db_mysqli('localhost', 'root', '', 'wordsru');
  <tbody>
 
  <?php
-if(isset )
+//if(isset )
 if($result = execute($db->sql_select(),$db, "mysqli")){
 	$i = 1;
 	while($row = $result->fetch_assoc()){
