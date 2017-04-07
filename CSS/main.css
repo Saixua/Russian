@@ -1,0 +1,48 @@
+
+#wrapper { 
+     position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -500px; 
+	
+    }   
+a{
+	color:#C43235;
+	text-decoration:none;
+	
+}
+
+a:hover{
+	color:#e6e6e8;
+	text-decoration:none;
+	}
+table{
+	 border: 1px solid #e6e6e8;
+}
+th{
+	border-style: none none solid none;
+	
+	border-top: thick #e6e6e8;
+}
+table, th, td{ 
+
+	font-size:22px;
+}
+
+
+
+body{ 
+	background-color:#06000a;  color:#e6e6e8; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+div#pagination_controls{
+	font-size:21px;
+}
+
+div#pagination_controls > a{
+	color:#C23235; 
+}
+
+div#pagination_controls > a:visited{
+	color:#C23235; 
+}
